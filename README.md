@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/yogini)](https://peerlist.io/yogini) 
+
 <!--
 **ms-yogi/ms-yogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
